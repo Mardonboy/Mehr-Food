@@ -8494,7 +8494,13 @@
     "izoh": "Sumax sepilgan halqa piyoz juda mos keladi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/lula-kabob.jpg",
+  "rasm_muallifi": {
+   "muallif": "Lesya Dolyk",
+   "litsenziya": "CC BY-SA 2.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Lula_kebab.jpg"
+  }
  },
  {
   "id": "qatlama",
@@ -8764,7 +8770,13 @@
     "izoh": "Dimlash kotletni ichigacha pishiradi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/kotlet.jpg",
+  "rasm_muallifi": {
+   "muallif": "Digr",
+   "litsenziya": "Public domain",
+   "manba": "https://commons.wikimedia.org/wiki/File:Kotleta.JPG"
+  }
  },
  {
   "id": "blinchiki",
@@ -8853,7 +8865,13 @@
     "izoh": "Ichiga qiyma yoki tvorog solib o'rash ham mumkin."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/blinchiki.jpg",
+  "rasm_muallifi": {
+   "muallif": "Maksym Kozlenko",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Pancakes_-_Налисники.jpg"
+  }
  },
  {
   "id": "sirniki",
@@ -8943,7 +8961,13 @@
     "izoh": "Nonushta uchun juda mos."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/sirniki.jpg",
+  "rasm_muallifi": {
+   "muallif": "Off-shell",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Syrniki_with_fruits.jpg"
+  }
  },
  {
   "id": "pho",
@@ -9067,7 +9091,13 @@
     "izoh": "Har kim o'z kosasiga ko'kat va laym qo'shadi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/pho.jpg",
+  "rasm_muallifi": {
+   "muallif": "Vinnie Cartabiano",
+   "litsenziya": "CC BY 2.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Phở_bò_(39425047901).jpg"
+  }
  },
  {
   "id": "tom-yum",
@@ -9180,7 +9210,13 @@
     "izoh": "Limon o'ti va barglar yeyilmaydi — ular faqat ta'm uchun."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/tom-yum.jpg",
+  "rasm_muallifi": {
+   "muallif": "OpenCage",
+   "litsenziya": "CC BY-SA 2.5",
+   "manba": "https://commons.wikimedia.org/wiki/File:Tom_yum.jpg"
+  }
  },
  {
   "id": "qovurilgan-guruch",
@@ -9282,7 +9318,13 @@
     "izoh": "Darhol issiq holda torting."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/qovurilgan-guruch.jpg",
+  "rasm_muallifi": {
+   "muallif": "Poorna Shaji",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Chicken_Fried_Rice.JPG"
+  }
  },
  {
   "id": "bibimbap",
@@ -9400,7 +9442,13 @@
     "izoh": "Kochujang miqdorini ta'bga qarab o'zgartiring."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/bibimbap.jpg",
+  "rasm_muallifi": {
+   "muallif": "Agnes Ly (Agnes Ly) at Flickr",
+   "litsenziya": "CC BY-SA 2.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Bibimbap-08.jpg"
+  }
  },
  {
   "id": "ratatuy",
@@ -9502,7 +9550,13 @@
     "izoh": "Oxirida chetlari biroz qizaradi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/ratatuy.jpg",
+  "rasm_muallifi": {
+   "muallif": "Ordercrazy",
+   "litsenziya": "CC0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Ratatouille_mit_Hüttenkäse.jpg"
+  }
  },
  {
   "id": "musaka",
@@ -9614,7 +9668,13 @@
     "izoh": "Kesishdan oldin 15 daqiqa tindiring."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/musaka.jpg",
+  "rasm_muallifi": {
+   "muallif": "Robert Kindermann aka RobertK",
+   "litsenziya": "CC BY-SA 2.5",
+   "manba": "https://commons.wikimedia.org/wiki/File:MussakasMeMelitsanesKePatates01.JPG"
+  }
  },
  {
   "id": "ispan-tortilyasi",
@@ -9689,7 +9749,13 @@
     "izoh": "Iliq yoki sovuq holda bo'laklab torting."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/ispan-tortilyasi.jpg",
+  "rasm_muallifi": {
+   "muallif": "Tamorlan",
+   "litsenziya": "CC BY 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Tortilla_de_patatas_en_un_plato.jpg"
+  }
  },
  {
   "id": "menemen",
@@ -9772,7 +9838,13 @@
     "izoh": "Qolgan issiqlikda tuxum yumshoq holda pishib yetadi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/menemen.jpg",
+  "rasm_muallifi": {
+   "muallif": "E4024",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Cooking_a_menemen.jpg"
+  }
  },
  {
   "id": "shaurma",
@@ -9885,7 +9957,13 @@
     "izoh": "Qizartirish lavashni yopishtiradi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/shaurma.jpg",
+  "rasm_muallifi": {
+   "muallif": "User:CrunchySkies",
+   "litsenziya": "CC BY-SA 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Chicken_Shwarama_plate.jpeg"
+  }
  },
  {
   "id": "palak-paneer",
@@ -9994,7 +10072,13 @@
     "izoh": "Paneerni oldindan qizartirsangiz, yanada mazali."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/palak-paneer.jpg",
+  "rasm_muallifi": {
+   "muallif": "DreamyFlutura11",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Palak_Paneer_(Cottage_cheese_in_spinach_gravy).jpg"
+  }
  },
  {
   "id": "guakamole",
@@ -10076,7 +10160,13 @@
     "izoh": "Saqlash kerak bo'lsa, ustiga danagini qo'yib, plyonka bilan yoping."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/guakamole.jpg",
+  "rasm_muallifi": {
+   "muallif": "Nikodem Nijaki",
+   "litsenziya": "CC BY-SA 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Guacamole_IMGP1289.jpg"
+  }
  },
  {
   "id": "humus",
@@ -10166,7 +10256,13 @@
     "izoh": "Pita yoki sabzavot tayoqchalari bilan torting."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/humus.jpg",
+  "rasm_muallifi": {
+   "muallif": "Beyrouthhh at English Wikipedia",
+   "litsenziya": "CC BY 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Lebanese_style_hummus.jpg"
+  }
  },
  {
   "id": "shirazi-salati",
@@ -10331,7 +10427,13 @@
     "izoh": "Bu salat 1890-yillarda Nyu-Yorkdagi Valdorf mehmonxonasida o'ylab topilgan."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/valdorf-salati.jpg",
+  "rasm_muallifi": {
+   "muallif": "Nillerdk",
+   "litsenziya": "CC BY 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Waldorfsalat.jpg"
+  }
  },
  {
   "id": "choban-salati",
@@ -10479,7 +10581,13 @@
     "izoh": "Yozda tetiklantiradi, qishda isitadi."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/karkade.jpg",
+  "rasm_muallifi": {
+   "muallif": "Emna Mizouni",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Hibiscus_tea.jpg"
+  }
  },
  {
   "id": "turk-qahvasi",
@@ -10535,7 +10643,13 @@
     "izoh": "Quyqa cho'kishi uchun bir daqiqa kuting; bir stakan suv bilan torting."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/turk-qahvasi.jpg",
+  "rasm_muallifi": {
+   "muallif": "Garrett Ziegler",
+   "litsenziya": "CC BY-SA 4.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Turkish_Coffee_with_Crema.jpg"
+  }
  },
  {
   "id": "orchata",
@@ -10622,7 +10736,13 @@
     "izoh": "Ustiga dolchin kukuni sepish mumkin."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/orchata.jpg",
+  "rasm_muallifi": {
+   "muallif": "Photocapy",
+   "litsenziya": "CC BY-SA 2.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Horchata_de_chufa_2.jpg"
+  }
  },
  {
   "id": "sbiten",
@@ -10698,7 +10818,13 @@
     "izoh": "Qishki sovuqda ayniqsa yoqimli."
    }
   ],
-  "video": ""
+  "video": "",
+  "rasm": "images/sbiten.jpg",
+  "rasm_muallifi": {
+   "muallif": "Schekinov Alexey Victorovich",
+   "litsenziya": "CC BY-SA 3.0",
+   "manba": "https://commons.wikimedia.org/wiki/File:Сбитень_(збитень)_ржаной.JPG"
+  }
  },
  {
   "id": "marokash-yalpizli-choyi",
