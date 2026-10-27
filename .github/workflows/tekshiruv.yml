@@ -1,0 +1,18 @@
+name: Retseptlarni tekshirish
+
+on:
+  push:
+    paths: ["data/**", "images/**", "scripts/**"]
+  pull_request:
+    paths: ["data/**", "images/**", "scripts/**"]
+
+jobs:
+  tekshiruv:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: JSON fayllarni tekshirish
+        run: node scripts/tekshir.js

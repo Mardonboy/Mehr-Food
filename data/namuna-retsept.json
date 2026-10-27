@@ -1,0 +1,22 @@
+{
+ "id": "yangi-taom-nomi",
+ "tur": "ovqat",
+ "nom": "Yangi taom nomi",
+ "davlat": "O'zbekiston",
+ "bayroq": "🇺🇿",
+ "vaqt": 45,
+ "qiyinlik": 1,
+ "porsiya": 4,
+ "kkal": 400,
+ "tavsif": "Bir jumlada taom haqida.",
+ "masalliqlar": [
+  {"nom": "Guruch", "miqdor": "500 g"},
+  {"nom": "Sabzi", "miqdor": "2 dona"}
+ ],
+ "qadamlar": [
+  {"matn": "Birinchi qadam.", "qoshiladi": [0], "izoh": "Nega aynan shunday qilinadi."},
+  {"matn": "Ikkinchi qadam.", "qoshiladi": [1], "izoh": "Foydali maslahat."}
+ ],
+ "rasm": "images/yangi-taom-nomi.jpg",
+ "video": ""
+}
