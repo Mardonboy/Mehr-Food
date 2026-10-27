@@ -58,6 +58,16 @@ Masalliq rasmi nomidan avtomatik tanlanadi (guruch, sabzi, go'sht...). Agar noto
 
 ---
 
+## 🇷🇺 Rus tili
+Ilovaning yuqori o'ng burchagidagi **RU / UZ** tugmasi tilni almashtiradi (tanlov telefonda eslab qolinadi).
+- Interfeys matnlari: `js/i18n.js`
+- Retseptlar tarjimasi: `data/ru/recipes.json` — retsept `id`si bo'yicha `nom`, `davlat`, `tavsif`, `masalliqlar` va `qadamlar` (soni o'zbekchadagi bilan bir xil bo'lsin)
+- Masalliqlar tarjimasi: `data/ru/ingredients.json` — `kalit` bo'yicha
+
+Yangi retseptning ruscha tarjimasini yozmasangiz ham bo'ladi — u rus tilida o'zbekcha ko'rinadi.
+
+---
+
 ## 🥕 Yangi masalliq qo'shish
 `data/ingredients.json` ga yangi yozuv qo'shing:
 

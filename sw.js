@@ -2,8 +2,8 @@
    - data/*.json  → avval internetdan (yangi retseptlar darhol ko'rinadi), bo'lmasa saqlangan nusxa
    - ilova fayllari → saqlangan nusxa darhol ochiladi, orqada yangilanadi
    - rasmlar       → bir marta yuklanadi va saqlanadi */
-const VERSION = "mehr-v1";
-const SHELL = ["./", "index.html", "js/app.js", "js/icons.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
+const VERSION = "mehr-v2";
+const SHELL = ["./", "index.html", "js/i18n.js", "js/app.js", "js/icons.js", "manifest.webmanifest", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(VERSION).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));

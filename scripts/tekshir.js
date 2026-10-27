@@ -54,6 +54,20 @@ if (Array.isArray(rec)) {
 }
 if (Array.isArray(ing)) console.log(`Masalliqlar: ${ing.length} ta`);
 
+// Ruscha tarjimalar (ixtiyoriy): tarjima qilinmagan retsept o'zbekcha ko'rinadi
+const ruRec = fs.existsSync(path.join(root, "data/ru/recipes.json")) ? load("data/ru/recipes.json") : null;
+const ruIng = fs.existsSync(path.join(root, "data/ru/ingredients.json")) ? load("data/ru/ingredients.json") : null;
+if (ruRec && Array.isArray(rec)) {
+  const noTr = [];
+  rec.forEach(r => {
+    const tr = ruRec[r.id]; if (!tr) { noTr.push(r.id); return; }
+    if (tr.qadamlar && tr.qadamlar.length !== (r.qadamlar || []).length) err(`data/ru/recipes.json (${r.id}): qadamlar soni o'zbekchadagi bilan bir xil bo'lishi kerak (${(r.qadamlar || []).length} ta)`);
+    if (tr.masalliqlar && tr.masalliqlar.length !== (r.masalliqlar || []).length) err(`data/ru/recipes.json (${r.id}): masalliqlar soni o'zbekchadagi bilan bir xil bo'lishi kerak (${(r.masalliqlar || []).length} ta)`);
+  });
+  console.log(`Ruscha tarjima: ${rec.length - noTr.length}/${rec.length} retsept` + (noTr.length ? ` (tarjimasiz: ${noTr.join(", ")})` : ""));
+}
+if (ruIng && Array.isArray(ing)) console.log(`Ruscha masalliqlar: ${ing.filter(i => ruIng[i.kalit]).length}/${ing.length}`);
+
 if (errors.length) {
   console.error(`\n${errors.length} ta xato topildi:\n - ` + errors.join("\n - "));
   process.exit(1);
